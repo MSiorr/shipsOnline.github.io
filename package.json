@@ -1,0 +1,16 @@
+{
+  "name": "statki-server",
+  "version": "0.1.0",
+  "dependencies": {
+    "express": "~4.17.1",
+    "socket.io": "~2.3.0"
+  },
+  "author": "MSior <michaldakol@gmail.com>",
+  "description": "Server for oships online",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "main": "server.js",
+  "devDependencies": {},
+  "license": "ISC"
+}
